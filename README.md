@@ -1,5 +1,5 @@
 # Scraping Hearts
-[Jupyter notebook (includes outputs, descriptions etc.](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.ipynb)
+[Jupyter notebook (includes outputs, descriptions etc.)](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.ipynb)
 
 [Code only (no outputs)](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.py)
 
