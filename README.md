@@ -31,7 +31,7 @@ This is a quick web scraping project that involved using _Python_ to extract spe
 
 # Challenges 
 * **Extracting the data:** data had to be cleaned after/whilst extracting to make it readable and to obtain only the desired information.
-* **Feature engineering:**Additional variables were created by using conditional logic; this provided information (a win, loss or draw) that is crucial to understanding the story during data anlysis.
+* **Feature engineering:** Additional variables were created by using conditional logic; this provided information (a win, loss or draw) that is crucial to understanding the story during data anlysis.
 * **Date:** the date had to be converted to a datetime object after being scraped. 
 
 # Summary
