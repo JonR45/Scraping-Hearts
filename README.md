@@ -10,7 +10,7 @@ This is a web scraping mini-project that involved using _Python_ to extract the 
 
 **Libraries:** requests, BeauftifulSoup, pandas, numpy, datetime, parse, re
     
-## Skills and Knowledge Required
+# Skills and Knowledge Required
 * Python
 * Web scraping
 * Data cleaning
