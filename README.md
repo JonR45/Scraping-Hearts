@@ -1,4 +1,4 @@
-# Scraping Hearts – Project Overview 
+# Scraping Hearts
 
 This is a quick web scraping project that involved using _Python_ to extract specific data (the fixtures and results) from a website [Heart of Midlothian FC fixtures and results](https://www.heartsfc.co.uk/fixtures/first-team/fixtures-and-results), create a _pandas_ data frame and save this data frame as a _.csv_ file.
 
