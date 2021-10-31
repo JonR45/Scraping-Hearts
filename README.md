@@ -1,7 +1,7 @@
 # Scraping Hearts
-[Jupyter notebook (includes descriptions etc.)](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.ipynb)
+[Jupyter notebook (includes outputs, descriptions etc.](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.ipynb)
 
-[Python code only](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.py)
+[Code only (no outputs)](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.py)
 
 This is a web scraping mini-project that involved using _Python_ to extract the fixtures and results from [Heart of Midlothian FC fixtures and results](https://www.heartsfc.co.uk/fixtures/first-team/fixtures-and-results), create a _pandas_ data frame and save this data frame as a _.csv_ file.
 
@@ -41,5 +41,5 @@ This is a web scraping mini-project that involved using _Python_ to extract the 
 
 # Summary
 * A script was created that scrapes the relevant data and places it into a data frame.
-* This project could be advanced by scraping previous season’s data, extracting specific information about each game (shots, pass completion, possession % etc.) and further feature engineering to enable a deep analysis of Heart of Midlothian’s recent history. 
+* This project could be advanced by scraping previous seasons' data, extracting specific information about each game (shots, pass completion, possession % etc.) and further feature engineering to enable a deep analysis of Heart of Midlothian’s recent history. 
 * This would also enable historic trends to be identified, and potentially a machine learning algorithm to be written that predicts results of future matches. 
