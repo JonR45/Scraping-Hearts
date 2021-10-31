@@ -40,5 +40,3 @@ This is a quick web scraping project that involved using _Python_ to extract spe
 * A script was created that scrapes the relevant data and places it into a data frame.
 * This project could be advanced by scraping previous season’s data, extracting specific information about each game (shots, pass completion, possession % etc.) and further feature engineering to enable a deep analysis of Heart of Midlothian’s recent history. 
 * This would also enable historic trends to be identified, and potentially a machine learning algorithm to be written that predicts results of future matches. 
-
-![image](https://user-images.githubusercontent.com/65425846/139596456-af7c288f-1935-4c3e-85de-5297588b44da.png)
