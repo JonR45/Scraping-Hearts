@@ -1,4 +1,7 @@
 # Scraping Hearts
+[Jupyter notebook (includes descriptions etc.)](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.ipynb)
+
+[Python code only](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.py)
 
 This is a quick web scraping project that involved using _Python_ to extract specific data (the fixtures and results) from a website [Heart of Midlothian FC fixtures and results](https://www.heartsfc.co.uk/fixtures/first-team/fixtures-and-results), create a _pandas_ data frame and save this data frame as a _.csv_ file.
 
