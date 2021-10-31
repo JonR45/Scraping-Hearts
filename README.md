@@ -5,10 +5,10 @@
 
 This is a web scraping mini-project that involved using _Python_ to extract the fixtures and results from [Heart of Midlothian FC fixtures and results](https://www.heartsfc.co.uk/fixtures/first-team/fixtures-and-results), create a _pandas_ data frame and save this data frame as a _.csv_ file.
 
-### Language and Packages used
+### Language and Libraries
 **Language:** Python 3.9
 
-**Packages used:** requests, BeauftifulSoup, pandas, numpy, datetime, parse, re
+**Libraries:** requests, BeauftifulSoup, pandas, numpy, datetime, parse, re
     
 ### Skills and Knowledge Required
 * Python
