@@ -1,4 +1,8 @@
 # Scraping Hearts
+
+![Scraping Hearts project banner]
+(https://github.com/JonR45/Scraping-Hearts/blob/97d4e6d72975b545795f0c7a5026cacff97ab9cc/scraping_hearts_project_banner_2.png)
+
 [Jupyter notebook (includes outputs, descriptions etc.)](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.ipynb)
 
 [Code only (no outputs)](https://github.com/JonR45/Scraping-Hearts/blob/main/scraping_hearts.py)
